@@ -1,0 +1,19 @@
+{
+  "name": "alertbot_creator",
+  "version": "0.1.0",
+  "description": "a program to create simple personal reddit bots",
+  "main": "serverside/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjohnyhats/alertbot_creator.git"
+  },
+  "author": "mrjohnyhats",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjohnyhats/alertbot_creator/issues"
+  },
+  "homepage": "https://github.com/mrjohnyhats/alertbot_creator#readme"
+}
